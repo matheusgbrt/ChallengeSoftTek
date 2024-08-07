@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 45,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0951951",
+    "idComentario": 397
+  },
+  {
+    "idTicket": 45,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0951951",
+    "idComentario": 398
+  },
+  {
+    "idTicket": 45,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0951951",
+    "idComentario": 399
+  },
+  {
+    "idTicket": 45,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0951951",
+    "idComentario": 400
+  },
+  {
+    "idTicket": 45,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0951951",
+    "idComentario": 401
+  },
+  {
+    "idTicket": 45,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0951951",
+    "idComentario": 402
+  },
+  {
+    "idTicket": 45,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0951951",
+    "idComentario": 403
+  },
+  {
+    "idTicket": 45,
+    "textoComentario": "Somente em sua maquina ?",
+    "numeroTicket": "TASK0951951",
+    "idComentario": 404
+  },
+  {
+    "idTicket": 45,
+    "textoComentario": "Em todo departamento",
+    "numeroTicket": "TASK0951951",
+    "idComentario": 405
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "idTicket": 11,
+    "numeroTicket": "TASK0919208",
+    "descricaoTicket": "Incluir perfil espelho",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-03-14T18:18:18Z",
+    "dataAtualizacao": "2024-05-01T18:00:40Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T18:00:40Z"
+  },
+  {
+    "idTicket": 12,
+    "numeroTicket": "TASK0926414",
+    "descricaoTicket": "Solicitação de Equipamento",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-03-25T17:17:59Z",
+    "dataAtualizacao": "2024-05-01T16:00:04Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T16:00:04Z"
+  },
+  {
+    "idTicket": 13,
+    "numeroTicket": "TASK0928474",
+    "descricaoTicket": "Atualização de Acesso",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-03-28T09:31:03Z",
+    "dataAtualizacao": "2024-05-02T09:08:05Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-02T09:08:06Z"
+  },
+  {
+    "idTicket": 14,
+    "numeroTicket": "TASK0929053",
+    "descricaoTicket": "Suporte Funcional",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-03-28T17:23:31Z",
+    "dataAtualizacao": "2024-05-03T08:41:16Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T08:41:17Z"
+  },
+  {
+    "idTicket": 15,
+    "numeroTicket": "TASK0931383",
+    "descricaoTicket": "Sistema lento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-04-02T13:05:46Z",
+    "dataAtualizacao": "2024-05-02T10:41:16Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-04-22T15:05:12Z"
+  },
+  {
+    "idTicket": 16,
+    "numeroTicket": "TASK0933095",
+    "descricaoTicket": "Troca de Equipamento",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-04-04T10:37:29Z",
+    "dataAtualizacao": "2024-05-01T13:00:42Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T13:00:42Z"
+  },
+  {
+    "idTicket": 17,
+    "numeroTicket": "TASK0933890",
+    "descricaoTicket": "Criar Perfil SAP",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-04-05T09:45:04Z",
+    "dataAtualizacao": "2024-05-03T09:42:44Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T09:42:44Z"
+  },
+  {
+    "idTicket": 18,
+    "numeroTicket": "TASK0935862",
+    "descricaoTicket": "Configuração de Equipamento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-04-09T09:32:28Z",
+    "dataAtualizacao": "2024-05-02T14:22:32Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-02T14:22:33Z"
+  },
+  {
+    "idTicket": 19,
+    "numeroTicket": "TASK0937918",
+    "descricaoTicket": "Devolução de Equipamento",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-04-11T12:02:32Z",
+    "dataAtualizacao": "2024-05-01T10:02:12Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T10:02:12Z"
+  },
+  {
+    "idTicket": 20,
+    "numeroTicket": "TASK0939623",
+    "descricaoTicket": "Solicito novo ponto de rede",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-04-15T10:39:31Z",
+    "dataAtualizacao": "2024-05-01T11:02:04Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T11:02:04Z"
+  }
+]

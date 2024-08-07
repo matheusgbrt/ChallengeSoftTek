@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 33,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0948052",
+    "idComentario": 289
+  },
+  {
+    "idTicket": 33,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0948052",
+    "idComentario": 290
+  },
+  {
+    "idTicket": 33,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0948052",
+    "idComentario": 291
+  },
+  {
+    "idTicket": 33,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0948052",
+    "idComentario": 292
+  },
+  {
+    "idTicket": 33,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0948052",
+    "idComentario": 293
+  },
+  {
+    "idTicket": 33,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0948052",
+    "idComentario": 294
+  },
+  {
+    "idTicket": 33,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0948052",
+    "idComentario": 295
+  },
+  {
+    "idTicket": 33,
+    "textoComentario": "Preencher planilha em anexo para criação das Ics",
+    "numeroTicket": "TASK0948052",
+    "idComentario": 296
+  },
+  {
+    "idTicket": 33,
+    "textoComentario": "Planilha enviada com informações solicitadas",
+    "numeroTicket": "TASK0948052",
+    "idComentario": 297
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 49,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0951989",
+    "idComentario": 433
+  },
+  {
+    "idTicket": 49,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0951989",
+    "idComentario": 434
+  },
+  {
+    "idTicket": 49,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0951989",
+    "idComentario": 435
+  },
+  {
+    "idTicket": 49,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0951989",
+    "idComentario": 436
+  },
+  {
+    "idTicket": 49,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0951989",
+    "idComentario": 437
+  },
+  {
+    "idTicket": 49,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0951989",
+    "idComentario": 438
+  },
+  {
+    "idTicket": 49,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0951989",
+    "idComentario": 439
+  },
+  {
+    "idTicket": 49,
+    "textoComentario": "Informar numero da nota de entrada",
+    "numeroTicket": "TASK0951989",
+    "idComentario": 440
+  },
+  {
+    "idTicket": 49,
+    "textoComentario": "Informação anxeada conforme solicitado",
+    "numeroTicket": "TASK0951989",
+    "idComentario": 441
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 24,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0945016",
+    "idComentario": 208
+  },
+  {
+    "idTicket": 24,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0945016",
+    "idComentario": 209
+  },
+  {
+    "idTicket": 24,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0945016",
+    "idComentario": 210
+  },
+  {
+    "idTicket": 24,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0945016",
+    "idComentario": 211
+  },
+  {
+    "idTicket": 24,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0945016",
+    "idComentario": 212
+  },
+  {
+    "idTicket": 24,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0945016",
+    "idComentario": 213
+  },
+  {
+    "idTicket": 24,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0945016",
+    "idComentario": 214
+  },
+  {
+    "idTicket": 24,
+    "textoComentario": "Informar perfil espelho",
+    "numeroTicket": "TASK0945016",
+    "idComentario": 215
+  },
+  {
+    "idTicket": 24,
+    "textoComentario": "Usar perfil espelho XXXXXXX",
+    "numeroTicket": "TASK0945016",
+    "idComentario": 216
+  }
+]

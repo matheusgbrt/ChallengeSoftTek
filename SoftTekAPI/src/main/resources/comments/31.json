@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 31,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0947870",
+    "idComentario": 271
+  },
+  {
+    "idTicket": 31,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0947870",
+    "idComentario": 272
+  },
+  {
+    "idTicket": 31,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0947870",
+    "idComentario": 273
+  },
+  {
+    "idTicket": 31,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0947870",
+    "idComentario": 274
+  },
+  {
+    "idTicket": 31,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0947870",
+    "idComentario": 275
+  },
+  {
+    "idTicket": 31,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0947870",
+    "idComentario": 276
+  },
+  {
+    "idTicket": 31,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0947870",
+    "idComentario": 277
+  },
+  {
+    "idTicket": 31,
+    "textoComentario": "Informar acesso a ser liberado",
+    "numeroTicket": "TASK0947870",
+    "idComentario": 278
+  },
+  {
+    "idTicket": 31,
+    "textoComentario": "Por favor liberar acesso a pasta XXXXXX",
+    "numeroTicket": "TASK0947870",
+    "idComentario": 279
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "idTicket": 41,
+    "numeroTicket": "TASK0950875",
+    "descricaoTicket": "Sistema lento",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-05-02T11:33:41Z",
+    "dataAtualizacao": "2024-05-02T16:30:38Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-02T16:30:36Z"
+  },
+  {
+    "idTicket": 42,
+    "numeroTicket": "TASK0951510",
+    "descricaoTicket": "Sistema lento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-03T08:37:13Z",
+    "dataAtualizacao": "2024-05-03T09:57:23Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T09:57:23Z"
+  },
+  {
+    "idTicket": 43,
+    "numeroTicket": "TASK0951667",
+    "descricaoTicket": "Sistema lento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-03T09:44:47Z",
+    "dataAtualizacao": "2024-05-03T09:49:36Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T09:49:36Z"
+  },
+  {
+    "idTicket": 44,
+    "numeroTicket": "TASK0951715",
+    "descricaoTicket": "Sistema lento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-03T10:04:45Z",
+    "dataAtualizacao": "2024-05-03T17:17:11Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T17:17:11Z"
+  },
+  {
+    "idTicket": 45,
+    "numeroTicket": "TASK0951951",
+    "descricaoTicket": "Sistema lento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-03T12:55:09Z",
+    "dataAtualizacao": "2024-05-03T13:18:47Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T12:59:36Z"
+  },
+  {
+    "idTicket": 46,
+    "numeroTicket": "TASK0951957",
+    "descricaoTicket": "Sistema lento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-03T13:02:51Z",
+    "dataAtualizacao": "2024-05-03T13:18:29Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T13:06:37Z"
+  },
+  {
+    "idTicket": 47,
+    "numeroTicket": "TASK0951959",
+    "descricaoTicket": "Suporte Impressoras",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-03T13:06:27Z",
+    "dataAtualizacao": "2024-05-03T13:34:03Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T13:34:03Z"
+  },
+  {
+    "idTicket": 48,
+    "numeroTicket": "TASK0951964",
+    "descricaoTicket": "Configuração de Equipamento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-03T13:15:34Z",
+    "dataAtualizacao": "2024-05-03T13:18:10Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T13:18:10Z"
+  },
+  {
+    "idTicket": 49,
+    "numeroTicket": "TASK0951989",
+    "descricaoTicket": "Transferência de Equipamento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-03T13:51:37Z",
+    "dataAtualizacao": "2024-05-03T13:53:26Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T13:53:26Z"
+  },
+  {
+    "idTicket": 50,
+    "numeroTicket": "TASK0952138",
+    "descricaoTicket": "Roaming Internacional",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-03T15:52:12Z",
+    "dataAtualizacao": "2024-05-03T16:26:54Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T16:26:54Z"
+  }
+]

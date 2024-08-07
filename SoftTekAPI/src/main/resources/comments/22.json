@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 22,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0944627",
+    "idComentario": 190
+  },
+  {
+    "idTicket": 22,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0944627",
+    "idComentario": 191
+  },
+  {
+    "idTicket": 22,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0944627",
+    "idComentario": 192
+  },
+  {
+    "idTicket": 22,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0944627",
+    "idComentario": 193
+  },
+  {
+    "idTicket": 22,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0944627",
+    "idComentario": 194
+  },
+  {
+    "idTicket": 22,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0944627",
+    "idComentario": 195
+  },
+  {
+    "idTicket": 22,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0944627",
+    "idComentario": 196
+  },
+  {
+    "idTicket": 22,
+    "textoComentario": "Anexar aval e planilha de acesso",
+    "numeroTicket": "TASK0944627",
+    "idComentario": 197
+  },
+  {
+    "idTicket": 22,
+    "textoComentario": "Realizado envio das informações solicitadas",
+    "numeroTicket": "TASK0944627",
+    "idComentario": 198
+  }
+]

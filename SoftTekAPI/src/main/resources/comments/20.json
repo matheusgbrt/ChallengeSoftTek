@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 20,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0939623",
+    "idComentario": 172
+  },
+  {
+    "idTicket": 20,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0939623",
+    "idComentario": 173
+  },
+  {
+    "idTicket": 20,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0939623",
+    "idComentario": 174
+  },
+  {
+    "idTicket": 20,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0939623",
+    "idComentario": 175
+  },
+  {
+    "idTicket": 20,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0939623",
+    "idComentario": 176
+  },
+  {
+    "idTicket": 20,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0939623",
+    "idComentario": 177
+  },
+  {
+    "idTicket": 20,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0939623",
+    "idComentario": 178
+  },
+  {
+    "idTicket": 20,
+    "textoComentario": "Informar local e aval para criação ponto de rede",
+    "numeroTicket": "TASK0939623",
+    "idComentario": 179
+  },
+  {
+    "idTicket": 20,
+    "textoComentario": "Aguardando passagem do cabeamento",
+    "numeroTicket": "TASK0939623",
+    "idComentario": 180
+  }
+]

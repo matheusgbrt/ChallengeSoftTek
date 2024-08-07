@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 36,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0948800",
+    "idComentario": 316
+  },
+  {
+    "idTicket": 36,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0948800",
+    "idComentario": 317
+  },
+  {
+    "idTicket": 36,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0948800",
+    "idComentario": 318
+  },
+  {
+    "idTicket": 36,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0948800",
+    "idComentario": 319
+  },
+  {
+    "idTicket": 36,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0948800",
+    "idComentario": 320
+  },
+  {
+    "idTicket": 36,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0948800",
+    "idComentario": 321
+  },
+  {
+    "idTicket": 36,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0948800",
+    "idComentario": 322
+  },
+  {
+    "idTicket": 36,
+    "textoComentario": "Informar data e local entrega",
+    "numeroTicket": "TASK0948800",
+    "idComentario": 323
+  },
+  {
+    "idTicket": 36,
+    "textoComentario": "Equipamentos liberados para entrega",
+    "numeroTicket": "TASK0948800",
+    "idComentario": 324
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 1,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "INC0194887",
+    "idComentario": 1
+  },
+  {
+    "idTicket": 1,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "INC0194887",
+    "idComentario": 2
+  },
+  {
+    "idTicket": 1,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "INC0194887",
+    "idComentario": 3
+  },
+  {
+    "idTicket": 1,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "INC0194887",
+    "idComentario": 4
+  },
+  {
+    "idTicket": 1,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "INC0194887",
+    "idComentario": 5
+  },
+  {
+    "idTicket": 1,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "INC0194887",
+    "idComentario": 6
+  },
+  {
+    "idTicket": 1,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "INC0194887",
+    "idComentario": 7
+  },
+  {
+    "idTicket": 1,
+    "textoComentario": "Somente em sua maquina ?",
+    "numeroTicket": "INC0194887",
+    "idComentario": 8
+  },
+  {
+    "idTicket": 1,
+    "textoComentario": "Em todo departamento",
+    "numeroTicket": "INC0194887",
+    "idComentario": 9
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 50,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0952138",
+    "idComentario": 442
+  },
+  {
+    "idTicket": 50,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0952138",
+    "idComentario": 443
+  },
+  {
+    "idTicket": 50,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0952138",
+    "idComentario": 444
+  },
+  {
+    "idTicket": 50,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0952138",
+    "idComentario": 445
+  },
+  {
+    "idTicket": 50,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0952138",
+    "idComentario": 446
+  },
+  {
+    "idTicket": 50,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0952138",
+    "idComentario": 447
+  },
+  {
+    "idTicket": 50,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0952138",
+    "idComentario": 448
+  },
+  {
+    "idTicket": 50,
+    "textoComentario": "Informar data para ativação",
+    "numeroTicket": "TASK0952138",
+    "idComentario": 449
+  },
+  {
+    "idTicket": 50,
+    "textoComentario": "Data informadas conforme solicitado",
+    "numeroTicket": "TASK0952138",
+    "idComentario": 450
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 47,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0951959",
+    "idComentario": 415
+  },
+  {
+    "idTicket": 47,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0951959",
+    "idComentario": 416
+  },
+  {
+    "idTicket": 47,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0951959",
+    "idComentario": 417
+  },
+  {
+    "idTicket": 47,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0951959",
+    "idComentario": 418
+  },
+  {
+    "idTicket": 47,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0951959",
+    "idComentario": 419
+  },
+  {
+    "idTicket": 47,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0951959",
+    "idComentario": 420
+  },
+  {
+    "idTicket": 47,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0951959",
+    "idComentario": 421
+  },
+  {
+    "idTicket": 47,
+    "textoComentario": "Papel atolado",
+    "numeroTicket": "TASK0951959",
+    "idComentario": 422
+  },
+  {
+    "idTicket": 47,
+    "textoComentario": "informar local da impressora?",
+    "numeroTicket": "TASK0951959",
+    "idComentario": 423
+  }
+]

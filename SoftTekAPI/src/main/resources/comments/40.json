@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 40,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0950674",
+    "idComentario": 352
+  },
+  {
+    "idTicket": 40,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0950674",
+    "idComentario": 353
+  },
+  {
+    "idTicket": 40,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0950674",
+    "idComentario": 354
+  },
+  {
+    "idTicket": 40,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0950674",
+    "idComentario": 355
+  },
+  {
+    "idTicket": 40,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0950674",
+    "idComentario": 356
+  },
+  {
+    "idTicket": 40,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0950674",
+    "idComentario": 357
+  },
+  {
+    "idTicket": 40,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0950674",
+    "idComentario": 358
+  },
+  {
+    "idTicket": 40,
+    "textoComentario": "Porta lenta ao abrir",
+    "numeroTicket": "TASK0950674",
+    "idComentario": 359
+  },
+  {
+    "idTicket": 40,
+    "textoComentario": "Por favor informar local",
+    "numeroTicket": "TASK0950674",
+    "idComentario": 360
+  }
+]

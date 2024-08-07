@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 28,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0946794",
+    "idComentario": 244
+  },
+  {
+    "idTicket": 28,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0946794",
+    "idComentario": 245
+  },
+  {
+    "idTicket": 28,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0946794",
+    "idComentario": 246
+  },
+  {
+    "idTicket": 28,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0946794",
+    "idComentario": 247
+  },
+  {
+    "idTicket": 28,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0946794",
+    "idComentario": 248
+  },
+  {
+    "idTicket": 28,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0946794",
+    "idComentario": 249
+  },
+  {
+    "idTicket": 28,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0946794",
+    "idComentario": 250
+  },
+  {
+    "idTicket": 28,
+    "textoComentario": "Não consigo logar em minha maquina",
+    "numeroTicket": "TASK0946794",
+    "idComentario": 251
+  },
+  {
+    "idTicket": 28,
+    "textoComentario": "Informar os dados abaixo",
+    "numeroTicket": "TASK0946794",
+    "idComentario": 252
+  }
+]

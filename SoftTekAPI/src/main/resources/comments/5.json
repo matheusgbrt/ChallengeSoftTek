@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 5,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "INC0208361",
+    "idComentario": 37
+  },
+  {
+    "idTicket": 5,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "INC0208361",
+    "idComentario": 38
+  },
+  {
+    "idTicket": 5,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "INC0208361",
+    "idComentario": 39
+  },
+  {
+    "idTicket": 5,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "INC0208361",
+    "idComentario": 40
+  },
+  {
+    "idTicket": 5,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "INC0208361",
+    "idComentario": 41
+  },
+  {
+    "idTicket": 5,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "INC0208361",
+    "idComentario": 42
+  },
+  {
+    "idTicket": 5,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "INC0208361",
+    "idComentario": 43
+  },
+  {
+    "idTicket": 5,
+    "textoComentario": "Impressora esta ligada?",
+    "numeroTicket": "INC0208361",
+    "idComentario": 44
+  },
+  {
+    "idTicket": 5,
+    "textoComentario": "Sim, somente em minha maquina não imprime",
+    "numeroTicket": "INC0208361",
+    "idComentario": 45
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 23,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0944775",
+    "idComentario": 199
+  },
+  {
+    "idTicket": 23,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0944775",
+    "idComentario": 200
+  },
+  {
+    "idTicket": 23,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0944775",
+    "idComentario": 201
+  },
+  {
+    "idTicket": 23,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0944775",
+    "idComentario": 202
+  },
+  {
+    "idTicket": 23,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0944775",
+    "idComentario": 203
+  },
+  {
+    "idTicket": 23,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0944775",
+    "idComentario": 204
+  },
+  {
+    "idTicket": 23,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0944775",
+    "idComentario": 205
+  },
+  {
+    "idTicket": 23,
+    "textoComentario": "Solicito notebook para utilizar",
+    "numeroTicket": "TASK0944775",
+    "idComentario": 206
+  },
+  {
+    "idTicket": 23,
+    "textoComentario": "Retirar equipamento junto ao time de Field Service",
+    "numeroTicket": "TASK0944775",
+    "idComentario": 207
+  }
+]

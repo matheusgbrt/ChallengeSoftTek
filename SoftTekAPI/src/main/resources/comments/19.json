@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 19,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0937918",
+    "idComentario": 163
+  },
+  {
+    "idTicket": 19,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0937918",
+    "idComentario": 164
+  },
+  {
+    "idTicket": 19,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0937918",
+    "idComentario": 165
+  },
+  {
+    "idTicket": 19,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0937918",
+    "idComentario": 166
+  },
+  {
+    "idTicket": 19,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0937918",
+    "idComentario": 167
+  },
+  {
+    "idTicket": 19,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0937918",
+    "idComentario": 168
+  },
+  {
+    "idTicket": 19,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0937918",
+    "idComentario": 169
+  },
+  {
+    "idTicket": 19,
+    "textoComentario": "Realizar entrega dos equipamentos ao time de gestão de ativos",
+    "numeroTicket": "TASK0937918",
+    "idComentario": 170
+  },
+  {
+    "idTicket": 19,
+    "textoComentario": "Realizado entrega dos equipamentos",
+    "numeroTicket": "TASK0937918",
+    "idComentario": 171
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 27,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0946697",
+    "idComentario": 235
+  },
+  {
+    "idTicket": 27,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0946697",
+    "idComentario": 236
+  },
+  {
+    "idTicket": 27,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0946697",
+    "idComentario": 237
+  },
+  {
+    "idTicket": 27,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0946697",
+    "idComentario": 238
+  },
+  {
+    "idTicket": 27,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0946697",
+    "idComentario": 239
+  },
+  {
+    "idTicket": 27,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0946697",
+    "idComentario": 240
+  },
+  {
+    "idTicket": 27,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0946697",
+    "idComentario": 241
+  },
+  {
+    "idTicket": 27,
+    "textoComentario": "Equipamento danificado",
+    "numeroTicket": "TASK0946697",
+    "idComentario": 242
+  },
+  {
+    "idTicket": 27,
+    "textoComentario": "Trocar carcaça",
+    "numeroTicket": "TASK0946697",
+    "idComentario": 243
+  }
+]

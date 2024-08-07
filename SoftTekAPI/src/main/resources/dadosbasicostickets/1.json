@@ -1,0 +1,102 @@
+[
+  {
+    "idTicket": 1,
+    "numeroTicket": "INC0194887",
+    "descricaoTicket": "Lentidão sistema",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-02-09T17:15:47Z",
+    "dataAtualizacao": "2024-05-03T14:34:26Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-01T18:00:04Z"
+  },
+  {
+    "idTicket": 2,
+    "numeroTicket": "INC0201867",
+    "descricaoTicket": "Lentidão sistema",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-03-22T08:08:10Z",
+    "dataAtualizacao": "2024-05-02T14:40:15Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-01T18:00:04Z"
+  },
+  {
+    "idTicket": 3,
+    "numeroTicket": "INC0204817",
+    "descricaoTicket": "Lentidão sistema",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-04-16T13:35:32Z",
+    "dataAtualizacao": "2024-05-03T14:54:03Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-01T18:00:04Z"
+  },
+  {
+    "idTicket": 4,
+    "numeroTicket": "INC0205119",
+    "descricaoTicket": "Lentidão sistema",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-04-18T07:17:26Z",
+    "dataAtualizacao": "2024-05-02T12:29:14Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-01T18:00:04Z"
+  },
+  {
+    "idTicket": 5,
+    "numeroTicket": "INC0208361",
+    "descricaoTicket": "Impressora Não Imprime",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-02T11:47:19Z",
+    "dataAtualizacao": "2024-05-02T13:29:23Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-01T18:00:04Z"
+  },
+  {
+    "idTicket": 6,
+    "numeroTicket": "INC0208388",
+    "descricaoTicket": "Sistema não abre",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-02T16:59:33Z",
+    "dataAtualizacao": "2024-05-02T17:49:39Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-01T18:00:04Z"
+  },
+  {
+    "idTicket": 7,
+    "numeroTicket": "TASK0900023",
+    "descricaoTicket": "Incluir perfil espelho",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-02-19T08:16:45Z",
+    "dataAtualizacao": "2024-05-01T17:00:04Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T17:00:04Z"
+  },
+  {
+    "idTicket": 8,
+    "numeroTicket": "TASK0900593",
+    "descricaoTicket": "Troca de pefil",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-02-19T13:14:10Z",
+    "dataAtualizacao": "2024-05-01T11:00:05Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T11:00:05Z"
+  },
+  {
+    "idTicket": 9,
+    "numeroTicket": "TASK0902990",
+    "descricaoTicket": "Criar usuário de rede",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-02-21T15:57:24Z",
+    "dataAtualizacao": "2024-05-01T18:00:04Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T18:00:04Z"
+  },
+  {
+    "idTicket": 10,
+    "numeroTicket": "TASK0912173",
+    "descricaoTicket": "Impressora Não Imprime",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-03-05T16:55:51Z",
+    "dataAtualizacao": "2024-05-03T16:17:38Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T16:17:38Z"
+  }
+]

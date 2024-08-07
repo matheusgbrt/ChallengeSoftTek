@@ -1,0 +1,102 @@
+[
+  {
+    "idTicket": 31,
+    "numeroTicket": "TASK0947870",
+    "descricaoTicket": "Atualização de Acesso",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-04-25T18:02:24Z",
+    "dataAtualizacao": "2024-05-01T10:07:52Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T10:07:52Z"
+  },
+  {
+    "idTicket": 32,
+    "numeroTicket": "TASK0947940",
+    "descricaoTicket": "Sistema lento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-04-26T07:37:03Z",
+    "dataAtualizacao": "2024-05-03T11:51:07Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T11:51:07Z"
+  },
+  {
+    "idTicket": 33,
+    "numeroTicket": "TASK0948052",
+    "descricaoTicket": "Item de Configuração",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-04-26T09:46:43Z",
+    "dataAtualizacao": "2024-05-01T11:07:17Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T11:07:17Z"
+  },
+  {
+    "idTicket": 34,
+    "numeroTicket": "TASK0948363",
+    "descricaoTicket": "Revogação de Acesso",
+    "descricaoEstadoTicket": "Fechado",
+    "dataAbertura": "2024-04-26T14:36:09Z",
+    "dataAtualizacao": "2024-05-01T17:06:56Z",
+    "dataRelatorioResolvido": "2024-04-26T00:00:00Z",
+    "dataEncerramento": "2024-05-01T17:06:56Z"
+  },
+  {
+    "idTicket": 35,
+    "numeroTicket": "TASK0948365",
+    "descricaoTicket": "Liberação de Acesso",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-04-26T14:39:07Z",
+    "dataAtualizacao": "2024-05-03T09:35:45Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T08:05:24Z"
+  },
+  {
+    "idTicket": 36,
+    "numeroTicket": "TASK0948800",
+    "descricaoTicket": "Solicitação de Equipamento",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-04-29T09:29:21Z",
+    "dataAtualizacao": "2024-05-02T10:00:14Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-02T10:00:14Z"
+  },
+  {
+    "idTicket": 37,
+    "numeroTicket": "TASK0948949",
+    "descricaoTicket": "Solicito novo ponto de rede",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-04-29T11:15:10Z",
+    "dataAtualizacao": "2024-05-03T13:43:13Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T13:43:14Z"
+  },
+  {
+    "idTicket": 38,
+    "numeroTicket": "TASK0950427",
+    "descricaoTicket": "Solicito novo ponto de rede",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-02T05:37:17Z",
+    "dataAtualizacao": "2024-05-03T00:34:26Z",
+    "dataRelatorioResolvido": "2024-05-03T00:00:00Z",
+    "dataEncerramento": "2024-05-03T00:34:26Z"
+  },
+  {
+    "idTicket": 39,
+    "numeroTicket": "TASK0950560",
+    "descricaoTicket": "Controle de Acesso e Relógio de Ponto",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-02T09:02:47Z",
+    "dataAtualizacao": "2024-05-02T15:13:57Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-02T15:13:57Z"
+  },
+  {
+    "idTicket": 40,
+    "numeroTicket": "TASK0950674",
+    "descricaoTicket": "Controle de Acesso e Relógio de Ponto",
+    "descricaoEstadoTicket": "Resolvido",
+    "dataAbertura": "2024-05-02T09:43:30Z",
+    "dataAtualizacao": "2024-05-02T13:03:35Z",
+    "dataRelatorioResolvido": "2024-05-02T00:00:00Z",
+    "dataEncerramento": "2024-05-02T13:03:35Z"
+  }
+]

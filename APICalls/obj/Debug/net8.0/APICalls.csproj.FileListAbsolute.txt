@@ -1,0 +1,17 @@
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\bin\Debug\net8.0\APICalls.exe
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\bin\Debug\net8.0\APICalls.deps.json
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\bin\Debug\net8.0\APICalls.runtimeconfig.json
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\bin\Debug\net8.0\APICalls.dll
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\bin\Debug\net8.0\APICalls.pdb
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\APICalls.csproj.AssemblyReference.cache
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\APICalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\APICalls.AssemblyInfoInputs.cache
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\APICalls.AssemblyInfo.cs
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\APICalls.csproj.CoreCompileInputs.cache
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\APICalls.csproj.Up2Date
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\APICalls.dll
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\refint\APICalls.dll
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\APICalls.pdb
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\APICalls.genruntimeconfig.cache
+C:\Users\Inovea\source\repos\SoftTekImportarPlanilhas\APICalls\obj\Debug\net8.0\ref\APICalls.dll

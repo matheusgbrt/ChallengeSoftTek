@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnBun51ieLMHoddp5yPBvGv0lVfAqLrtIG1960WCahHUY8axaDUCgLI7DQ4QqJsqD6JynMVM2pxMJ+NK092yUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inovea\\source\\repos\\SoftTekImportarPlanilhas\\APICalls\\APICalls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inovea\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

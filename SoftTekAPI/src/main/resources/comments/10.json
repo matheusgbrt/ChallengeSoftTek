@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 10,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0912173",
+    "idComentario": 82
+  },
+  {
+    "idTicket": 10,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0912173",
+    "idComentario": 83
+  },
+  {
+    "idTicket": 10,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0912173",
+    "idComentario": 84
+  },
+  {
+    "idTicket": 10,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0912173",
+    "idComentario": 85
+  },
+  {
+    "idTicket": 10,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0912173",
+    "idComentario": 86
+  },
+  {
+    "idTicket": 10,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0912173",
+    "idComentario": 87
+  },
+  {
+    "idTicket": 10,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0912173",
+    "idComentario": 88
+  },
+  {
+    "idTicket": 10,
+    "textoComentario": "Impressora esta ligada?",
+    "numeroTicket": "TASK0912173",
+    "idComentario": 89
+  },
+  {
+    "idTicket": 10,
+    "textoComentario": "Não, estamos sem energia no local",
+    "numeroTicket": "TASK0912173",
+    "idComentario": 90
+  }
+]

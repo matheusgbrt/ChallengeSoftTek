@@ -1,0 +1,56 @@
+[
+  {
+    "idTicket": 48,
+    "textoComentario": "Aguardando atendimento",
+    "numeroTicket": "TASK0951964",
+    "idComentario": 424
+  },
+  {
+    "idTicket": 48,
+    "textoComentario": "Em atendimento",
+    "numeroTicket": "TASK0951964",
+    "idComentario": 425
+  },
+  {
+    "idTicket": 48,
+    "textoComentario": "Enviar evidencias",
+    "numeroTicket": "TASK0951964",
+    "idComentario": 426
+  },
+  {
+    "idTicket": 48,
+    "textoComentario": "Evidencias Anexadas",
+    "numeroTicket": "TASK0951964",
+    "idComentario": 427
+  },
+  {
+    "idTicket": 48,
+    "textoComentario": "Problema Persiste",
+    "numeroTicket": "TASK0951964",
+    "idComentario": 428
+  },
+  {
+    "idTicket": 48,
+    "textoComentario": "Acionando Nivel 2",
+    "numeroTicket": "TASK0951964",
+    "idComentario": 429
+  },
+  {
+    "idTicket": 48,
+    "textoComentario": "Acionando Nvel 3",
+    "numeroTicket": "TASK0951964",
+    "idComentario": 430
+  },
+  {
+    "idTicket": 48,
+    "textoComentario": "Configurar Smartphone XXXX",
+    "numeroTicket": "TASK0951964",
+    "idComentario": 431
+  },
+  {
+    "idTicket": 48,
+    "textoComentario": "informar melhor horário para atendimento",
+    "numeroTicket": "TASK0951964",
+    "idComentario": 432
+  }
+]
